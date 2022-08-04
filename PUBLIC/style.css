@@ -1,0 +1,21 @@
+
+
+.container {
+    background-color:rgb(237, 242, 244) ;
+    border: 2px solid rgb(43, 45, 66);
+}
+
+
+
+.main{
+    background-color: #2B2D42 ;
+    color: white;
+  
+}
+.question{
+    background-color: rgb(141, 153, 174);
+}
+
+.bgc{
+    background-color: rgb(237, 242, 244);
+}
